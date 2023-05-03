@@ -12,6 +12,8 @@ public class Demo1 {
 		System.out.println("this is fifth line man...");
 
 		System.out.println("this is sixth line man...");
+
+		System.out.println("this is seventh line man...");
 		
 	}
 
