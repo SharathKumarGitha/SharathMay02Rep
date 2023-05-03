@@ -23,8 +23,7 @@ public class Demo1 {
 		System.out.println("this is 11th line......");
 		System.out.println("this is 12th line.....");
 		
-		System.out.println("hello");
-		System.out.println("how ru man......");
+		
 		
 	}
 
