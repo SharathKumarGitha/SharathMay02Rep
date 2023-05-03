@@ -17,6 +17,12 @@ public class Demo1 {
 		
 		System.out.println("this is eight line man...");
 		
+		System.out.println("this is 9th line......");
+		System.out.println("this is 10th line.....");
+		
+		System.out.println("these are new line and line is 11th line....");
+		System.out.println("these are new line and line is 12th line....");
+		
 	}
 
 }
